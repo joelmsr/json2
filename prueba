@@ -16,25 +16,3 @@
     }
   ]
 }
-<!DOCTYPE html>
-<html>
-<body>
-
-<h2>Fetch a JSON file with XMLHttpRequest</h2>
-<p id="demo"></p>
-<p id="demo1"></p>
-<script>
-const xmlhttp = new XMLHttpRequest();
-xmlhttp.onload = function() {
-  const myObj = JSON.parse(this.responseText);
-  document.getElementById("demo").innerHTML = myObj.name;
-  document.getElementById("demo1").innerHTML = myObj.age;
- 
-}
-xmlhttp.open("GET", "https://raw.githubusercontent.com/joelmsr/json2/main/prueba");
-
-xmlhttp.send();
-</script>
-
-</body>
-</html>
