@@ -1,6 +1,6 @@
 {
- # "name": "Joel",
-  #"age": 42,
+  "name": "Joel",
+  "age": 42,
   "pets": [
     {
       "animal": "dog",
