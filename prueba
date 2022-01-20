@@ -15,18 +15,5 @@
       "name": "Lightning"
     }
   ]
-  "persona": [
-    {
-      "animal": "pajaro",
-      "name": "Fido"
-    },
-    {
-      "animal": "cat",
-      "name": "Felix"
-    },
-    {
-      "animal": "hamster",
-      "name": "Lightning"
-    }
-  ]
+
 }
