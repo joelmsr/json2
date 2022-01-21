@@ -1,17 +1,13 @@
-{
-
-	"pets": [{
-			"animal": "pajaro",
-			"name": "Fido"
-		},
-		{
-			"animal": "cat",
-			"name": "Felix"
-		},
-		{
-			"animal": "hamster",
-			"name": "Lightning"
-		}
-	]
-
-}
+[{
+		"animal": "pajaro",
+		"name": "Fido"
+	},
+	{
+		"animal": "cat",
+		"name": "Felix"
+	},
+	{
+		"animal": "hamster",
+		"name": "Lightning"
+	}
+]
